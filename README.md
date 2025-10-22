@@ -9,4 +9,4 @@ Two polished examples for band-gap prediction from Materials Project data.
 ```bash
 conda env create -f environment.yml
 conda activate thermo-ml
-export MP_API_KEY="VzNVmBMga05iZbWxZz3XFrV74z9ih3jE"
+export MP_API_KEY="your_api_key"
